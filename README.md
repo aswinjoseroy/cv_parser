@@ -11,4 +11,4 @@ This module does not use any external library. Only uses the default linux utili
 and the default _json_ module that comes with python.
 
 
-This python project has been tested on python 3.7.9 interpreter. 
+This python project has been tested on python 3.7.9 interpreter. Test can be executed by running _tests/test.py_ module.  
